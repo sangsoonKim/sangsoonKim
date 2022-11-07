@@ -50,5 +50,8 @@
      1. 최정화 기법 영상처리 기계학습 등을 기반으로 자율주행차 및 산업용 검사로봇에 필요한 알고리늠을 연구.
 
 
+# 포트폴리오
 
+# Contacts
+* 학과 홈페이지 : [https://indai.cbnu.ac.kr/](https://indai.cbnu.ac.kr/)
 
