@@ -1,15 +1,8 @@
-### Hi there 👋
-
-<!--
-**sangsoonKim/sangsoonKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
---!>
 
 *1학기 전공과목
 
-  *(공통) 산업인공지능 개론 - 이건명 교수님
-###1. 인공지능의 접근 방법과 핵심 개념에 대한 이해
+*(공통) 산업인공지능 개론 - 이건명 교수님
+1. 인공지능의 접근 방법과 핵심 개념에 대한 이해
 2.최신 인공지능 기술의 산업 현장에서의 적용 가능성을 검토 및 설명
 3.인공지능 기술 적용을 위한 오픈 소스를 활용한 실습을 통해 적용 능력을 배양
 
