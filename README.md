@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 
-1학기 전공과목
+-1학기 전공과목
 
 (공통) 산업인공지능 개론 - 이건명 교수님
 1. 인공지능의 접근 방법과 핵심 개념에 대한 이해
