@@ -52,7 +52,7 @@
 
 # 포트폴리오(36)
 * [IoT 플랫폼과 IoT 장치 설계 -3](https://github.com/sangsoonKim/AI/tree/main/Projects/IoT%20%ED%94%8C%EB%9E%AB%ED%8F%BC%EA%B3%BC%20IoT%20%EC%9E%A5%EC%B9%98%20%EC%84%A4%EA%B3%84/%EA%B3%BC%EC%A0%9C)
-* [딥러닝실제 - 11](https://github.com/sangsoonKim/AI/tree/main/Projects/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%A4%EC%A0%9C/%EA%B3%BC%EC%A0%9C)
+* [딥러닝실제 - 8](https://github.com/sangsoonKim/AI/tree/main/Projects/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%A4%EC%A0%9C/%EA%B3%BC%EC%A0%9C)
 * [머신러닝프로그래밍 -1](https://github.com/sangsoonKim/AI/tree/main/Projects/%EB%A8%B8%EC%8B%A0%20%EB%9F%AC%EB%8B%9D%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EA%B3%BC%EC%A0%9C)
 * [산업빅데이터분석실제 - 3](https://github.com/sangsoonKim/AI/tree/main/Projects/%EC%82%B0%EC%97%85%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EC%8B%A4%EC%A0%9C/%EA%B3%BC%EC%A0%9C)
 * [산업인공지능개론 - 2](https://github.com/sangsoonKim/AI/tree/main/Projects/%EC%82%B0%EC%97%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B0%9C%EB%A1%A0/%EA%B3%BC%EC%A0%9C)
